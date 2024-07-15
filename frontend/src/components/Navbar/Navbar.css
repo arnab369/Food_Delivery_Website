@@ -17,6 +17,10 @@
     font-size: 20px;
 }
 
+.navbar-menu li:hover {
+    color: tomato;
+}
+
 .navbar-right {
     display: flex;
     align-items: center;
